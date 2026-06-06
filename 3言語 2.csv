@@ -1,0 +1,793 @@
+﻿ID,Русский ,Deutsch,English 
+1.0,как,wie,how
+,называться,heißen,to be called
+,ты,du,you
+,я,ich,I
+,кто,wer,who
+,быть,sein,to be
+,привет,Hallo,hello
+,ах,ah,ah
+,алфавит,das Alphabet,alphabet
+,извините,Entschuldigung,sorry
+,спасибо,Danke,thank you
+,мой,mein,my
+,имя,der Name,name
+,имя,der Vorname,first name
+,фамилия,der Familienname,last name
+,как дела,wie geht's,how are you
+,тебе,dir,you
+,отмечать крестиком,ankreuzen,to mark with a cross
+,отлично,super,great
+,очень хорошо,sehr gut,very good
+,хорошо,gut,good
+,нормально,es geht,not too bad
+,не очень,nicht so gut,not so well
+,тоже,auch,also
+,откуда,woher,where from
+,приходить,kommen,to come
+,из,aus,from
+,это,das,this / that
+,учить,lernen,to learn
+,она,sie,she
+,он,er,he
+,Эритрея,Eritrea,Eritrea
+,Германия,Deutschland,Germany
+,Швейцария,die Schweiz,Switzerland
+,пока,tschüs,bye
+,до свидания,Auf Wiedersehen,goodbye
+,музыка,die Musik,music
+,страна,das Land,country
+,Турция,die Türkei,Turkey
+,Испания,Spanien,Spain
+,Франция,Frankreich,France
+,Австрия,Österreich,Austria
+,США,die USA,USA
+,информация,die Information,information
+,известная личность,die Persönlichkeit,celebrity
+,Южная Африка,Südafrika,South Africa
+,произносить по буквам,buchstabieren,to spell
+,добрый день,Guten Tag,good day
+,доброе утро,Guten Morgen,good morning
+,добрый вечер,Guten Abend,good evening
+,спокойной ночи,Gute Nacht,good night
+,Вы,Sie,you (formal)
+,господин,der Herr,Mr.
+,госпожа,die Frau,Mrs. / Ms.
+,разговор,das Gespräch,conversation
+,бросать,werfen,to throw
+,монета,die Münze,coin
+,тест,der Test,test
+,экспресс-тест,der Schnelltest,rapid test
+2.0,год,das Jahr,year
+,старый,alt,old
+,женат / замужем,verheiratet,married
+,иметь,haben,to have
+,ребёнок,das Kind,child
+,никакой / нет,kein,"no, not any"
+,жить (проживать),wohnen,to live
+,в,in,in
+,интервью,das Interview,interview
+,партнёр,der Partner,partner
+,партнёрша,die Partnerin,partner
+,вы (мн.ч.),ihr,you (plural)
+,мы,wir,we
+,жить вместе,zusammenleben,to live together
+,да,ja,yes
+,но,aber,but
+,где,wo,where
+,они,sie,they
+,предложение,der Satz,sentence
+,правильный,richtig,correct
+,точка,der Punkt,point
+,загадка,das Rätsel,riddle
+,неправильный,falsch,wrong
+,что,was,what
+,минус,minus,minus
+,плюс,plus,plus
+,разведённый,geschieden,divorced
+,одинокий человек,der Single,single person
+,один,allein,alone
+,делать,machen,to do
+,"профессия, работа",der Beruf,profession
+,работать,arbeiten,to work
+,"как, в качестве",als,as
+,"в, у",bei,at
+,фирма,die Firma,company
+,работа,der Job,job
+,парикмахер,der Friseur,hairdresser
+,официант,der Kellner,waiter
+,большое спасибо,vielen Dank,thank you very much
+,"для, за",für,for
+,число,die Zahl,number
+,инженер,der Ingenieur,engineer
+,студент,der Student,university student
+,журналист,der Journalist,journalist
+,архитектор,der Architekt,architect
+,медсестра,die Krankenschwester,nurse
+,животное,das Tier,animal
+,ветеринар,der Tierarzt,veterinarian
+,актёр,der Schauspieler,actor
+,певец,der Sänger,singer
+,опера,die Oper,opera
+,врач,der Arzt,doctor
+,учитель,der Lehrer,teacher
+,продавец,der Verkäufer,shop assistant
+,готовый,fertig,finished
+,собирать,sammeln,to collect
+,больше,mehr,more
+,должность,die Stelle,position
+,учиться,studieren,to study
+,школьник,der Schüler,school student
+,пенсионер,der Rentner,pensioner
+,образование,die Ausbildung,training
+,стажировка,das Praktikum,internship
+,момент,der Moment,moment
+,сейчас,jetzt,now
+,происхождение,die Herkunft,origin
+,место жительства,der Wohnort,place of residence
+,возраст,das Alter,age
+,семейное положение,der Familienstand,marital status
+,учёба,das Studium,studies
+,текст,der Text,text
+,Мексика,Mexiko,Mexico
+,Португалия,Portugal,Portugal
+3.0,семья,die Familie,family
+,мать,die Mutter,mother
+,отец,der Vater,father
+,сестра,die Schwester,sister
+,верить,glauben,to believe
+,дядя,der Onkel,uncle
+,бабушка,die Oma,grandma
+,внук / внучка,das Enkelkind,grandchild
+,родители,die Eltern,parents
+,сын,der Sohn,son
+,дочь,die Tochter,daughter
+,брат,der Bruder,brother
+,братья и сёстры,die Geschwister,siblings
+,дедушка,der Großvater,grandfather
+,бабушка,die Großmutter,grandmother
+,твой,dein,your
+,бабушка и дедушка,die Großeltern,grandparents
+,внук,der Enkel,grandson
+,внучка,die Enkelin,granddaughter
+,муж,der Ehemann,husband
+,жена,die Ehefrau,wife
+,родственник,der Verwandte,relative
+,родственница,die Verwandte,relative
+,тётя,die Tante,aunt
+,планировать,planen,to plan
+,праздник,das Fest,celebration
+,список,die Liste,list
+,нет,nein,no
+,наоборот / всё-таки,doch,yes (contradiction)
+,Польша,Polen,Poland
+,мужчина,der Mann,man
+,анкета,der Steckbrief,profile
+,письмо,der Brief,letter
+,член (организации),das Mitglied,member
+,испанский,Spanisch,Spanish
+,английский,Englisch,English
+,русский,Russisch,Russian
+,китайский,Chinesisch,Chinese
+,польский,Polnisch,Polish
+,французский,Französisch,French
+,итальянский,Italienisch,Italian
+,турецкий,Türkisch,Turkish
+,немецкий,Deutsch,German
+,какой,welche,which
+,язык,die Sprache,language
+,говорить,sprechen,to speak
+,немного,ein bisschen,a little bit
+,совсем не,gar nicht,not at all
+4.0,дома,zu Hause,at home
+,магазин,das Geschäft,shop
+,мебель,die Möbel,furniture
+,картина,das Bild,picture
+,красивый,schön,lovely
+,дорогой,teuer,expensive
+,уродливый,hässlich,ugly
+,дешёвый,günstig,cheap
+,"считать, находить",finden,to think
+,стул,der Stuhl,chair
+,ой,oh,oh
+,смотреть,schauen,to look
+,"разок, немного",mal,just
+,там,da,over there
+,сколько,wie viel,how much
+,стоить,kosten,to cost
+,"же, ведь",denn,then
+,счастье,das Glück,luck
+,только,nur,only
+,евро,der Euro,euro
+,специальное предложение,das Sonderangebot,special offer
+,действительно,wirklich,really
+,кровать,das Bett,bed
+,лампа,die Lampe,lamp
+,кресло,der Sessel,armchair
+,диван,das Sofa,sofa
+,стол,der Tisch,table
+,шкаф,der Schrank,wardrobe
+,ковёр,der Teppich,carpet
+,полка,das Regal,shelf
+,"знать, быть знакомым",kennen,to know
+,зеркало,der Spiegel,mirror
+,практичный,praktisch,handy
+,слишком,zu,too
+,новый,neu,new
+,ходить по магазинам,shoppen,to shop
+,маленький,klein,small
+,отель,das Hotel,hotel
+,звезда,der Stern,star
+,большой,groß,big
+,миллион,die Million,million
+,цена,der Preis,price
+,цент,der Cent,cent
+,комната,das Zimmer,room
+,современный,modern,modern
+5.0,часы,die Uhr,clock
+,автомобиль,das Auto,car
+,мобильный телефон,das Handy,mobile phone
+,рисовать,zeichnen,to draw
+,"один, одна, одно",ein/e,a
+,книга,das Buch,book
+,карандаш,der Bleistift,pencil
+,очки,die Brille,glasses
+,бутылка,die Flasche,bottle
+,камера,die Kamera,camera
+,цепочка,die Kette,necklace
+,шариковая ручка,der Kugelschreiber,pen
+,ключ,der Schlüssel,key
+,сумка,die Tasche,bag
+,наручные часы,die Uhr,watch
+,материал,das Material,material
+,дерево,das Holz,wood
+,бумага,das Papier,paper
+,металл,das Metall,metal
+,пожалуйста,bitte,please
+,пластик,das Plastik,plastic
+,ещё раз,noch einmal,once again
+,стекло,das Glas,glass
+,писать,schreiben,to write
+,цвет,die Farbe,colour
+,белый,weiß,white
+,жёлтый,gelb,yellow
+,оранжевый,orange,orange
+,красный,rot,red
+,зелёный,grün,green
+,синий,blau,blue
+,коричневый,braun,brown
+,чёрный,schwarz,black
+,видеть,sehen,to see
+,что-то,etwas,something
+,много,viele,many
+,вещь,das Ding,thing
+,и так далее,und so weiter,and so on
+,говорить,sagen,to say
+,спрашивать,fragen,to ask
+,отвечать,antworten,to answer
+,продолжать,weiterfragen,to keep asking
+,ага,aha,aha
+,зажигалка,das Feuerzeug,lighter
+,кошелёк,der Geldbeutel,wallet
+,носовой платок,das Taschentuch,tissue
+,зонт,der Regenschirm,umbrella
+,дождь,der Regen,rain
+,по-немецки,auf Deutsch,in German
+,слово,das Wort,word
+,называть,nennen,to name
+,просить,bitten,to ask for
+,"человек, люди",man,you (generic)
+,благодарить,sich bedanken,to thank
+,большое спасибо,danke schön,thank you
+,проблема,das Problem,problem
+,не за что,Bitte schön,you are welcome
+,без проблем,Kein Problem,no problem
+,повторение,die Wiederholung,repetition
+,реагировать,reагieren auf,to react to
+,словарь,das Wörterbuch,dictionary
+,куртка,die Jacke,jacket
+,спичка,das Streichholz,match
+,щётка,die Bürste,brush
+,мыло,die Seife,soap
+,полотенце,das Handtuch,towel
+,фен,der Föhn,hairdryer
+,я не знаю,Ich weiß nicht,I do not know
+,класс,die Klasse,class
+,онлайн,online,online
+,заказывать,bestellen,to order
+,товар,die Ware,good
+,корзина,der Warenkorb,shopping cart
+,солнце,die Sonne,sun
+,солнечные очки,die Sonnenbrille,sunglasses
+,тёмный,dunkel,dark
+,светлый,hell,light
+,номер,die Nummer,number
+,искусственный материал,der Kunststoff,plastic
+,продукт,das Produkt,product
+,название продукта,der Produktname,product name
+,количество,die Menge,amount
+,формуляр,das Formular,form
+,обращение,die Anrede,form of address
+,электронная почта,die E-Mail,email
+,телефон,das Telefon,telephone
+,дом,das Haus,house
+,адрес,die Adresse,address
+,нижнее подчёркивание,der Unterstrich,underscore
+,улица,die Straße,street
+,почтовый индекс,die Postleitzahl,postcode
+,адрес электронной почты,die E-Mail-Adresse,email address
+,номер дома,die Hausnummer,house number
+,"город, населённый пункт",der Ort,place
+,номер телефона,die Telefonnummer,phone number
+,быть голодным,Hunger haben,to be hungry
+,разговаривать по телефону,telefonieren mit,to talk on the phone
+,вайфай,das WLAN,Wi-Fi
+,ручка,der Stift,pen
+,нуждаться,brauchen,to need
+,кофе,der Kaffee,coffee
+6.0,термин,die Nachricht,message
+,офис,das Büro,office
+,новый,neu,new
+,приветствия,Viele Grüße,kind regards
+,приветствие,der Gruß,greeting
+,йога,das Yoga,yoga
+,завтра,morgen,tomorrow
+,к сожалению,leider,unfortunately
+,время,die Zeit,time
+,иметь время,Zeit haben,to have time
+,встреча,der Termin,appointment
+,"из, от",von,"of, from"
+,с наилучшими пожеланиями,Liebe Grüße,"love, kind regards"
+,ноутбук,der Laptop,laptop
+,принтер,der Drucker,printer
+,мышь,die Maus,mouse
+,компьютер,der Computer,computer
+,календарь,der Kalender,calendar
+,монитор,der Bildschirm,monitor
+,планшет,das Tablet,tablet
+,визитная карточка,die Visitenkarte,business card
+,клавиатура,die Tastatur,keyboard
+,затем,dann,then
+,записывать,notieren,to note down
+,о боже,Oh Gott!,Oh God!
+,бог,der Gott,god
+,много,viel,much
+,работа,die Arbeit,work
+,помощь!,Hilfe!,Help!
+,пароль,das Passwort,password
+,сон,der Traum,dream
+,кошмар,der Albtraum,nightmare
+,человек,die Person,person
+,голод,der Hunger,hunger
+,класть в сумку,in die Tasche packen,to put in the bag
+,письменный стол,der Schreibtisch,desk
+,рабочее место,der Arbeitsplatz,workspace
+,уже снова,schon wieder,again
+,может быть,vielleicht,maybe
+,квартет,das Quartett,quartets card game
+,здесь,hier,speaking (on phone)
+,быть там,da sein,to be there
+,до свидания (по телефону),Auf Wiederhören,goodbye (on phone)
+7.0,быть способным,können,can
+,танцевать,tanzen,to dance
+,мочь,können,can
+,танцевать,tanzen,to dance
+,отличный,toll,great
+,обычный,normal,normal
+,странный,komisch,strange
+,глупый,blöd,stupid
+,интересный,interessant,interesting
+,смешной,lustig,funny
+,везде,überall,anywhere
+,слушать,hören,to listen
+,в настоящее время,zurzeit,currently
+,всегда,immer,always
+,минута,die Minute,minute
+,готовить,kochen,to cook
+,петь,singen,to sing
+,плавать,schwimmen,to swim
+,фотографировать,fotografieren,to take photographs
+,играть в шахматы,Schach spielen,to play chess
+,рисовать,malen,to paint
+,печь,backen,to bake
+,играть в футбол,Fußball spielen,to play football
+,играть в теннис,Tennis spielen,to play tennis
+,играть на гитаре,Gitarre spielen,to play the guitar
+,ездить на велосипеде,Rad fahren,to cycle
+,кататься на лыжах,Ski fahren,to ski
+,ездить верхом,reiten,to ride
+,хобби,das Hobby,hobby
+,действительно,ja,really
+,действительно,wirklich,really
+,сердечное спасибо,Herzlichen Dank!,thank you very much
+,все мы,wir alle,all of us
+,все,alle,all
+,все трое,alle drei,all three
+,оба,beide,both
+,тоже нет,auch nicht,not either
+,ставить музыку,auflegen,to deejay
+,миксовать музыку,Musik mixen,to mix music
+,диджей,der DJ,DJ
+,любить,lieben,to love
+,кикбоксинг,das Kickboxen,kick-boxing
+,пожилые люди,die Senioren,old people
+,дом престарелых,das Seniorenheim,old people’s home
+,правильно,richtig,properly
+,ходить,gehen,to walk
+,страхование,die Versicherung,insurance
+,продавец,der Kaufmann,salesman
+,продавщица,die Kauffrau,saleswoman
+,продавцы,die Kaufleute,salespeople
+,страховой агент,der Versicherungskaufmann,insurance salesman
+,страховой агент,die Versicherungskauffrau,insurance saleswoman
+,свободное время,die Freizeit,free time
+,в свободное время,in der Freizeit,in one's free time
+,часто,oft,often
+,клуб,der Klub,club
+,концерт,das Konzert,concert
+,стартап,das Start-up,start-up
+,фитнес,die Fitness,fitness
+,студия,das Studio,studio
+,спортзал,das Fitnessstudio,gym
+,никогда,nie,never
+,долго,lange,long
+,иногда,manchmal,sometimes
+,вертикальный,vertikal,vertical
+,горизонтальный,horizontal,horizontal
+,диагональный,diagonal,diagonal
+,читать,lesen,to read
+,встречаться с друзьями,Freunde treffen,to meet friends
+,друг,der Freund,friend
+,подруга,die Freundin,friend
+,"встречать, встречаться",treffen,to meet
+,ездить,fahren,to drive
+,поездка,der Ausflug,trip
+,радио,das Radio,radio
+,интернет,das Internet,internet
+,сидеть в интернете,im Internet surfen,to browse the internet
+,серфить,surfen,to browse
+,доставлять удовольствие,Spaß machen,to be fun
+,удовольствие,der Spaß,fun
+,любимый,Lieblings-,favourite
+,"охотно, с удовольствием",gern,gladly
+,на,an,on
+8.0,бассейн,das Schwimmbad,swimming pool
+,кинотеатр,das Kino,cinema
+,сегодня,heute,today
+,вторая половина дня,der Nachmittag,afternoon
+,"в, во (о времени)",um,at
+,день недели,der Wochentag,day of the week
+,неделя,die Woche,week
+,понедельник,der Montag,Monday
+,вторник,der Dienstag,Tuesday
+,среда,der Mittwoch,Wednesday
+,четверг,der Donnerstag,Thursday
+,пятница,der Freitag,Friday
+,суббота,der Samstag,Saturday
+,воскресенье,der Sonntag,Sunday
+,когда,wann,when
+,выходные,das Wochenende,weekend
+,на выходных,am Wochenende,on the weekend
+,свободный,frei,off
+,чат,der Chat,chat
+,ночь,die Nacht,night
+,ночью,in der Nacht,at night
+,знать,wissen,to know
+,ещё нет,noch nicht,not yet
+,желание,die Lust,desire
+,быть в настроении,Lust auf haben,to feel like
+,нет желания,Keine Lust,not in the mood
+,идея,die Idee,idea
+,хорошая идея,Gute Idee,good idea
+,четверть после,viertel nach,quarter past
+,половина,halb,half past
+,поздний,spät,late
+,или,oder,or
+,"хорошо, ладно",okay,okay
+,до встречи,Bis dann,see you then
+,утро,der Morgen,morning
+,утро (до полудня),der Vormittag,morning
+,полдень,der Mittag,noon
+,вечер,der Abend,evening
+,музей,das Museum,museum
+,театр,das Theater,theatre
+,кафе,das Café,cafe
+,выставка,die Ausstellung,exhibition
+,дискотека,die Disco,disco
+,ресторан,das Restaurant,restaurant
+,бар,die Bar,bar
+,"в, внутрь",in,into
+,после,nach,past
+,"до, без",vor,to
+,сколько времени,Wie viel Uhr ist es?,What time is it?
+,который час,Wie spät ist es?,What time is it?
+,спина,der Rücken,back
+,точно,genau,exactly
+,предложение,der Vorschlag,suggestion
+,вопрос,die Frage,question
+,ответ,die Antwort,answer
+,мне жаль,tut mir leid,I am sorry
+,кетчуп,der Ketchup,ketchup
+9.0,любить,mögen,to like
+,гамбургер,der Hamburger,hamburger
+,шоколад,die Schokolade,chocolate
+,сыр,der Käse,cheese
+,салат,der Salat,salad
+,пирог,der Kuchen,cake
+,суп,die Suppe,soup
+,яблоко,der Apfel,apple
+,чай,der Tee,tea
+,апельсин,die Orange,orange
+,рыба,der Fisch,fish
+,помидор,die Tomate,tomato
+,хлеб,das Brot,bread
+,мясо,das Fleisch,meat
+,булочка,das Brötchen,bread roll
+,джем,die Marmelade,jam
+,сок,der Saft,juice
+,завтрак,das Frühstück,breakfast
+,на завтрак,zum Frühstück,for breakfast
+,особенно,besonders,especially
+,приятного аппетита,Guten Appetit!,enjoy your meal
+,"вот, пожалуйста",hier bitte,there you are
+,вкусный,lecker,delicious
+,есть,essen,to eat
+,шутка,der Witz,joke
+,здоровый,fit,fit
+,умный,intelligent,intelligent
+,отличный,prima,great
+,стихотворение,das Gedicht,poem
+,на столе,auf dem Tisch,on the table
+,пить,trinken,to drink
+,ужин,das Abendessen,dinner
+,обед,das Mittagessen,lunch
+,напиток,das Getränk,drink
+,еда,das Essen,food
+,сливочное масло,die Butter,butter
+,ветчина,der Schinken,ham
+,яйцо,das Ei,egg
+,мюсли,das Müsli,muesli
+,молоко,die Milch,milk
+,желать,wünschen,to wish
+,чашка,die Tasse,cup
+,хотеть,möchten,would like
+,ореховый пирог,der Nusskuchen,nut cake
+,яблочный пирог,der Apfelkuchen,apple cake
+,шоколадный пирог,der Schokoladenkuchen,chocolate cake
+,жаль,schade,what a pity
+,ну ладно,na gut,all right then
+,брать,nehmen,to take
+,наш,unser,our
+,гость,der Gast,guest
+,меню,die Speisekarte,menu
+,без забот,sorgenfrei,free of worry
+,яблочный сок,der Apfelsaft,apple juice
+,апельсиновый сок,der Orangensaft,orange juice
+,вода,das Wasser,water
+,блюдо,die Speise,meal
+,закуска,die Vorspeise,starter
+,салат из помидоров,der Tomatensalat,tomato salad
+,картофель,die Kartoffel,potato
+,сосиска,das Würstchen,sausage
+,основное блюдо,das Hauptgericht,main course
+,картофель фри,die Pommes frites,fries
+,лапша,die Nudel,noodle
+,соус,die Soße,sauce
+,курица,das Huhn,chicken
+,рис,der Reis,rice
+,десерт,das Dessert,dessert
+,мороженое,das Eis,ice cream
+,ваниль,die Vanille,vanilla
+,клубника,die Erdbeere,strawberry
+,шарик мороженого,die Kugel,scoop
+,порция,die Portion,portion
+,сливки,die Sahne,cream
+,фрукты,das Obst,fruit
+,кусок,das Stück,piece
+,лимон,die Zitrone,lemon
+,лимонный пирог,der Zitronenkuchen,lemon cake
+,десерт,der Nachtisch,dessert
+,идеальный,perfekt,perfect
+,комплексное меню,das Menü,menu
+,вкус,schmecken,to taste
+,город,die Stadt,city
+,аэропорт,der Flughafen,airport
+,общаться в чате,chatten,to chat
+,коллега,der Kollege,colleague
+,коллега,die Kollegin,colleague
+10.0,рейс,der Flug,flight
+,вечерний рейс,der Abendflug,evening flight
+,путешествие,die Reise,journey
+,скоро,kurz,shortly
+,улетать,abfliegen,to depart by plane
+,взлетать,starten,to take off
+,прибывать,ankommen,to arrive
+,там,dort,there
+,примерно,so,around
+,звонить,anrufen,to call
+,меня,mich,me
+,ещё раз,noch mal,again
+,рано,früh,early
+,точно,sicher,sure
+,голос,die Stimme,voice
+,пытаться,versuchen,to try
+,надеюсь,hoffentlich,hopefully
+,опоздание,die Verspätung,delay
+,сломанный,kaputt,broken
+,"машина, механизм",die Maschine,machine
+,приземляться,landen,to land
+,всё,alles,everything
+,всё в порядке,alles klar,everything is all right
+,лучше,lieber,better
+,мало,wenig,little
+,аккумулятор,der Akku,battery
+,понимать,verstehen,to understand
+,"встречать, забирать",abholen,to pick up
+,какой,was für,what kind of
+,конечно,natürlich,of course
+,радоваться,freuen,to look forward to
+,до скорого,Bis gleich!,see you in a minute
+,садиться (в транспорт),einsteigen,to get on
+,делать пересадку,umsteigen,to change trains
+,выходить (из транспорта),aussteigen,to get off
+,"движение, транспорт",der Verkehr,traffic
+,транспортное средство,das Verkehrsmittel,means of transport
+,багаж,das Gepäck,luggage
+,вокзал,der Bahnhof,station
+,метро,die U-Bahn,subway
+,такси,das Taxi,taxi
+,автобус,der Bus,bus
+,поезд,der Zug,train
+,трамвай,die Straßenbahn,tram
+,самолёт,das Flugzeug,plane
+,чемодан,der Koffer,suitcase
+,рюкзак,der Rucksack,backpack
+,покупать,einkaufen,to buy
+,отправляться,abfahren,to depart
+,смотреть телевизор,fernsehen,to watch television
+,объявление,die Durchsage,announcement
+,междугородний поезд,der Intercity,inter-city train
+,платформа,der Bahnsteig,platform
+,отправляться,fahren,to depart
+,отправление,die Abfahrt,departure
+,направление,die Richtung,direction
+,прибывать (о поезде),einfahren,to arrive
+,путь,das Gleis,track/platform
+,поездка,die Fahrt,journey
+,заканчиваться,enden,to end
+,начинаться,beginnen,to start
+,стоять,stehen,to stand
+,выход,der Ausgang,exit
+,следующий,nächst-,next
+,остановка,der Halt,stop
+,главный вокзал,der Hauptbahnhof,main station
+,осторожность,die Vorsicht,caution
+,внимание!,Achtung!,watch out!
+11.0,вчера,gestern,yesterday
+,прогулка,der Spaziergang,stroll
+,лес,der Wald,forest
+,газета,die Zeitung,newspaper
+,"убирать, приводить в порядок",aufräumen,to tidy up
+,слишком мало,zu wenig,too little
+,слишком много,zu viel,too much
+,птица,der Vogel,bird
+,фильм,der Film,film
+,перерыв,die Pause,break
+,доктор,der Doktor,doctor
+,докторская диссертация,die Doktorarbeit,doctoral dissertation
+,мыть посуду,abwaschen,to do the dishes
+,спать,schlafen,to sleep
+,домашнее задание,die Hausaufgabe,homework
+,сериал,die Serie,series
+,"дорогой, любимый",Schatz,honey
+,от ... до,von ... bis,from ... to
+,баскетбол,der Basketball,basketball
+,после этого,danach,afterwards
+,поход по магазинам,der Einkaufsbummel,shopping trip
+,покупать,kaufen,to buy
+,футболка,das T-Shirt,T-shirt
+,"с, начиная с",ab,from
+,целый,ganze,whole
+,возвращаться,zurückkommen,to come back
+,поцелуй,der Kuss,kiss
+,открытый,geöffnet,open
+,табличка,das Schild,sign
+,педиатр,der Kinderarzt,paediatrician
+,бутик,die Boutique,boutique
+,мода,die Mode,fashion
+,отпуск,der Urlaub,holiday
+,"занятие, урок",der Unterricht,class
+,руководитель курса,der Kursleiter,course instructor
+,курс,der Kurs,course
+,цветок,die Blume,flower
+,магазин,der Laden,shop
+,закрытый,geschlossen,closed
+,кафе-мороженое,das Eiscafé,ice cream parlour
+,врачебная практика,die Praxis,practice
+,киоск,der Kiosk,kiosk
+,зуб,der Zahn,tooth
+,анкета,der Fragebogen,questionnaire
+,последний,letzt-,last
+,долго,lange,long
+,спорт,der Sport,sport
+,приглашать,einladen,to invite
+,хор,der Chor,choir
+,гандбол,der Handball,handball
+,"бельё, стирка",die Wäsche,laundry
+,стирать,waschen,to do the laundry
+,подарок,das Geschenk,present
+12.0,марафон,der Marathon,marathon
+,бежать,laufen,to run
+,существует,gibt es,there is / there are
+,с,seit,since
+,километр,der Kilometer,kilometre
+,год (число),die Jahreszahl,year
+,в пути,unterwegs,on the road
+,август,der August,August
+,велотур,die Radtour,cycling tour
+,"в, в направлении",nach,to
+,до,bis,to
+,ехать дальше,weiterfahren,to move on
+,тур,die Tour,tour
+,погода,das Wetter,weather
+,осень,der Herbst,autumn
+,пара,ein paar,a couple of
+,посещать,besuchen,to visit
+,оставаться,bleiben,to stay
+,колесо обозрения,das Riesenrad,Ferris wheel
+,народный праздник,das Volksfest,fair
+,"итак, значит",also,so
+,почти,fast,almost
+,середина,die Mitte,middle
+,октябрь,der Oktober,October
+,начало,der Anfang,beginning
+,ноябрь,der November,November
+,этот,dieser,this
+,примерно,etwa,about
+,посетитель,der Besucher,visitor
+,зима,der Winter,winter
+,декабрь,der Dezember,December
+,Рождество,Weihnachten,Christmas
+,праздновать,feiern,to celebrate
+,ехать обратно,zurückfahren,to go back
+,ворота,das Tor,gate
+,канун Нового года,Silvester,New Year's Eve
+,довольно,ziemlich,pretty
+,классный,cool,cool
+,лето,der Sommer,summer
+,через,durch,through
+,время года,die Jahreszeit,season
+,месяц,der Monat,month
+,день рождения,der Geburtstag,birthday
+,весна,der Frühling,spring
+,март,der März,March
+,апрель,der April,April
+,май,der Mai,May
+,июнь,der Juni,June
+,июль,der Juli,July
+,сентябрь,der September,September
+,январь,der Januar,January
+,февраль,der Februar,February
+,клубника,die Erdbeere,strawberry
+,происходить,passieren,to happen
+,ходить в поход,wandern,to hike
+,ходить под парусом,segeln,to sail
+,прыгать,springen,to jump
+,Альпы,die Alpen,the Alps
+,вертолёт,der Hubschrauber,helicopter
+,десятиметровый трамплин,das Zehn-Meter-Brett,ten-metre board
+,ночью,nachts,at night
+,это правда,das stimmt,that is right
+,гавань,der Hafen,harbour
+,каждый,jeder,each
+,как долго,wie lange,how long
+,длиться,dauern,to last
+,корабль,das Schiff,ship
+,остров,die Insel,island
+,ничего,nichts,nothing
+,родившийся,geboren,born
+,час,die Stunde,hour
+,ждать,warten,to wait
+,жажда,der Durst,thirst
+,класть,legen,to put
+,добро пожаловать,willkommen,welcome
