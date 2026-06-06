@@ -1,6 +1,13 @@
 import streamlit as st
 import pandas as pd
 
+st.title("ロシア語単語帳")
+
 df = pd.read_csv("3言語2.csv")
 
-st.write(df.columns.tolist())
+df.columns = df.columns.str.strip()
+
+for _, row in df.iterrows():
+    with st.expander(row["Русский"]):
+        st.write(f"🇩🇪 {row['Deutsch']}")
+        st.write(f"🇺🇸 {row['English']}")
