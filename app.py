@@ -12,8 +12,8 @@ df = pd.read_csv("3言語2.csv")
 df.columns = df.columns.str.strip()
 
 # 音声作成
-def make_audio(text):
-    tts = gTTS(text=str(text), lang="ru")
+def make_audio(text, lang):
+    tts = gTTS(text=str(text), lang=lang)
     fp = BytesIO()
     tts.write_to_fp(fp)
     fp.seek(0)
@@ -50,9 +50,12 @@ for _, row in df.iloc[start:end].iterrows():
 
     with st.expander(f"{row['Русский']} 🔊"):
 
-        st.audio(make_audio(row["Русский"]))
+        st.write("🇷🇺 ロシア語")
+        st.audio(make_audio(row["Русский"], "ru"))
 
         st.write(f"🇩🇪 {row['Deutsch']}")
+        st.audio(make_audio(row["Deutsch"], "de"))
+
         st.write(f"🇺🇸 {row['English']}")
 
 st.divider()
