@@ -50,12 +50,14 @@ for _, row in df.iloc[start:end].iterrows():
 
     with st.expander(f"{row['Русский']} 🔊"):
 
-        st.write("🇷🇺 ロシア語")
+        # ロシア語音声
         st.audio(make_audio(row["Русский"], "ru"))
 
+        # ドイツ語
         st.write(f"🇩🇪 {row['Deutsch']}")
         st.audio(make_audio(row["Deutsch"], "de"))
 
+        # 英語
         st.write(f"🇺🇸 {row['English']}")
 
 st.divider()
