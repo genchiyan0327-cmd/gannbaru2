@@ -5,4 +5,7 @@ st.title("ロシア語単語帳")
 
 df = pd.read_csv("3言語2.csv")
 
-st.write(df)
+for _, row in df.iterrows():
+    with st.expander(row["Русский"]):
+        st.write(f"🇩🇪 {row['Deutsch']}")
+        st.write(f"🇺🇸 {row['English']}")
