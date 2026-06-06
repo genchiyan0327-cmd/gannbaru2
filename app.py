@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+from gtts import gTTS
+from io import BytesIO
 
 st.title("ロシア語単語帳")
 
@@ -8,6 +10,14 @@ df = pd.read_csv("3言語2.csv")
 
 # 列名の余計なスペースを削除
 df.columns = df.columns.str.strip()
+
+# 音声作成
+def make_audio(text):
+    tts = gTTS(text=str(text), lang="ru")
+    fp = BytesIO()
+    tts.write_to_fp(fp)
+    fp.seek(0)
+    return fp
 
 # 検索
 search = st.text_input("🔍 検索")
@@ -26,23 +36,22 @@ total_pages = max(1, (len(df) - 1) // page_size + 1)
 if "page" not in st.session_state:
     st.session_state.page = 1
 
-# 検索中は1ページ目に戻す
 if search:
     st.session_state.page = 1
 
-page = st.session_state.page
-
-# ページ範囲補正
-page = max(1, min(page, total_pages))
+page = max(1, min(st.session_state.page, total_pages))
 st.session_state.page = page
 
-# 表示範囲
 start = (page - 1) * page_size
 end = start + page_size
 
 # 単語表示
 for _, row in df.iloc[start:end].iterrows():
-    with st.expander(row["Русский"]):
+
+    with st.expander(f"{row['Русский']} 🔊"):
+
+        st.audio(make_audio(row["Русский"]))
+
         st.write(f"🇩🇪 {row['Deutsch']}")
         st.write(f"🇺🇸 {row['English']}")
 
